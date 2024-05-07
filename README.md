@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://kwork.ru/user/kurochki_n" target="_blank">Egor</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/kurochki_n" target="_blank">Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python programmer, computer science student from Russia</h3>
 
