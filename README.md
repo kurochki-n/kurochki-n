@@ -14,7 +14,7 @@
 |-----:|-----------|
 |<img height="32" width="32" src="https://simpleicons.org/icons/telegram.svg" />|<a href="https://t.me/kurochki_n" target="_blank">Click</a>|
 |<img height="32" width="32" src="https://simpleicons.org/icons/upwork.svg" />|<a href="https://kwork.ru/user/kurochki_n" target="_blank">Click</a>|
-|<img height="32" width="32" src="https://simpleicons.org/icons/maildotru.svg" />|<a href="willson2019.octa@mail.ru" target="_blank">Click</a>|
+|<img height="32" width="32" src="https://simpleicons.org/icons/maildotru.svg" />|<a href="https://willson2019.octa@mail.ru" target="_blank">Click</a>|
 
 
 ![](https://komarev.com/ghpvc/?username=kurochki-n)
