@@ -6,7 +6,12 @@
 
 <h1 align="center">Projects 🛠️</h1> 
 
-<b><i>Soon...</i></b>
+<details>
+  <summary><b>Telegram bot «Captain Jack»</b></summary>
+            <img src="https://github.com/kurochki-n/kurochki-n/assets/160146470/2c352c1f-2fb4-4022-b827-a5e735d88d58">
+            <a>I made a telegram bot for the tobacco company «Captain Jack»</a><br>
+            <a>Link - <a href="https://t.me/CapJack_bot">Click</a></a>
+</details>
 
 <h1 align="center">Contacts 📱</h1> 
 
