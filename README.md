@@ -1,27 +1,126 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/kurochki_n" target="_blank">kurochki-n</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python programmer, computer science student from Russia</h3>
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
+```python
+class KurochkinDev(object):
 
-<h1 align="center">Projects 🛠️</h1> 
-
-<details>
-  <summary><b>Telegram bot «Captain Jack»</b></summary>
-            <img src="https://github.com/kurochki-n/kurochki-n/assets/160146470/2c352c1f-2fb4-4022-b827-a5e735d88d58">
-            <a>I made a telegram bot for the tobacco company «Captain Jack»</a><br>
-            <a>Link - <a href="https://t.me/CapJack_bot">Click</a></a>
-</details>
-
-<h1 align="center">Contacts 📱</h1> 
-
-| Service | Link |
-|-----:|-----------|
-|<img height="32" width="32" src="https://simpleicons.org/icons/telegram.svg" />|<a href="https://t.me/kurochkin_bots" target="_blank">Click</a>|
-|<img height="32" width="32" src="https://simpleicons.org/icons/upwork.svg" />|<a href="https://kwork.ru/user/kurochki_n" target="_blank">Click</a>|
-|<img height="32" width="32" src="https://simpleicons.org/icons/maildotru.svg" />|<a href="https://willson2019.octa@mail.ru" target="_blank">Click</a>|
+    def __init__(self) -> None:
+        self.name = "Egor Kurochkin"
+        self.role = "Python Backend Developer"
+        self.language_spoken = ["ru", "en"]
+        self.focus = [
+            "Telegram Bot Development",
+            "API Development & Integration", 
+            "Web Automation & Reverse Engineering",
+            "Database Architecture"
+        ]
+    
+    def say_hi(self) -> None:
+        print("Thanks for dropping by! Let's build something amazing together.")
 
 
-![](https://komarev.com/ghpvc/?username=kurochki-n)
+me = KurochkinDev()
+me.say_hi()
+```
 
-            
+## 💻 Tech Stack
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0e002b?style=for-the-badge&logo=python&logoColor=00ff99" />
+  <img src="https://img.shields.io/badge/aiogram-0e002b?style=for-the-badge&logo=telegram&logoColor=6c2eb7" />
+  <img src="https://img.shields.io/badge/FastAPI-0e002b?style=for-the-badge&logo=fastapi&logoColor=00ff99" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0e002b?style=for-the-badge&logo=postgresql&logoColor=6c2eb7" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0e002b?style=for-the-badge&logo=alchemy&logoColor=00ff99" />
+  <img src="https://img.shields.io/badge/Linux-0e002b?style=for-the-badge&logo=linux&logoColor=6c2eb7" />
+  <img src="https://img.shields.io/badge/Git-0e002b?style=for-the-badge&logo=git&logoColor=00ff99" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-0e002b?style=for-the-badge&logo=hackthebox&logoColor=6c2eb7" />
+  <img src="https://img.shields.io/badge/Traffic%20Analysis-0e002b?style=for-the-badge&logo=wireshark&logoColor=00ff99" />
+</p>
+
+</div>
+
+### 🎮 Specialization Areas
+
+```ascii
+┌─ Bot Development ────────────────────────────────────────────────────┐
+│  > Creating intelligent Telegram bots with aiogram                   │
+│  > Complex workflow automation and user interaction handling         │
+│  > Integration with external APIs and services                       │
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ API Development ────────────────────────────────────────────────────┐
+│  > High-performance REST APIs with FastAPI                           │
+│  > Database integration using SQLAlchemy ORM                         │
+│  > Authentication, middleware, and error handling                    │
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ Automation & Reverse Engineering ───────────────────────────────────┐
+│  > Traffic analysis and API endpoint discovery                       │
+│  > Mobile app automation through API replication                     │
+│  > Web scraping and data extraction automation                       │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+## 🚀 Featured Projects
+
+<div>
+
+### <img src="https://emojicdn.elk.sh/💼" width="24"/> [Kwork-Hunter-Bot](https://github.com/kurochki-n/Kwork-Hunter-Bot)
+> A Telegram-bot for freelancers that helps you quickly track new projects on the Kwork exchange and respond promptly to them, increasing your chances of receiving an order.
+
+---
+
+### <img src="https://emojicdn.elk.sh/🏎️" width="24"/> [Telegram Bot West](https://t.me/kurochkin_dev/41)
+> Telegram bot, timed to coincide with the launch of tobacco company Imperial Brands on the Russian market with West products. This is an exciting promo bot that allows you to get acquainted with the history of the brand, follow the news and earn points in the game, as well as win pleasant prizes.
+
+---
+
+### <img src="https://emojicdn.elk.sh/⚓" width="24"/> [Telegram Bot CaptainJack](https://t.me/kurochkin_dev/39)
+> Telegram bot, timed to coincide with the launch of tobacco company Imperial Brands on the Russian market with CaptainJack products. This is an exciting promo bot that allows you to get acquainted with the history of the brand, follow the news and earn points in the game, as well as win pleasant prizes.
+
+---
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kurochki-n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc&icon_color=22c55e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kurochki-n&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kurochki-n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc&icon_color=22c55e">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kurochki-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kurochki-n&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurochki-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc">
+</picture>
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kurochkin_dev)
+[![Kwork](https://img.shields.io/badge/Kwork-FF6B35?style=for-the-badge&logo=upwork&logoColor=white)](https://kwork.ru/user/kurochki_n)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurochkin.dev@mail.ru)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kurochki-n&style=for-the-badge&color=7c3aed"/>
+
+</div>
+
+<div align="center">
+
+**⭐ From [kurochki-n](https://github.com/kurochki-n) with 💜**
+
+</div>
