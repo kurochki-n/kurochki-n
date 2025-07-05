@@ -71,12 +71,12 @@ me.say_hi()
 
 ---
 
-### <img src="https://emojicdn.elk.sh/🏎️" width="24"/> [Telegram Bot West](https://t.me/kurochkin_dev/41)
+### <img src="https://emojicdn.elk.sh/🏎️" width="24"/> [Telegram-Bot-West](https://t.me/kurochkin_dev/41)
 > Telegram bot, timed to coincide with the launch of tobacco company Imperial Brands on the Russian market with West products. This is an exciting promo bot that allows you to get acquainted with the history of the brand, follow the news and earn points in the game, as well as win pleasant prizes.
 
 ---
 
-### <img src="https://emojicdn.elk.sh/⚓" width="24"/> [Telegram Bot CaptainJack](https://t.me/kurochkin_dev/39)
+### <img src="https://emojicdn.elk.sh/⚓" width="24"/> [Telegram-Bot-CaptainJack](https://t.me/kurochkin_dev/39)
 > Telegram bot, timed to coincide with the launch of tobacco company Imperial Brands on the Russian market with CaptainJack products. This is an exciting promo bot that allows you to get acquainted with the history of the brand, follow the news and earn points in the game, as well as win pleasant prizes.
 
 ---
